@@ -2,6 +2,8 @@
 
 Welcome! This is a collection of my solutions to **Codewars** coding challenges. I use different programming languages, including **Python, JavaScript (WIP), Java(WIP), and C++(WIP)**. These solutions show different ways to solve problems and write better code.
 
+### https://www.codewars.com/users/KoiKoiiKoiii/completed_solutions
+
 ## 📂 What's Inside?
 This repository is organized by programming language, so you can easily find what you need.
 ```
