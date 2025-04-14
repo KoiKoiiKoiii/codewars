@@ -17,7 +17,7 @@ codewars/
 │── java/
 │   ├── Challenge1.java
 │   ├── Challenge2.java
-│── cpp/
+│── cs/
 │   ├── challenge1.cpp
 │   ├── challenge2.cpp
 │── README.md
